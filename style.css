@@ -1,14 +1,14 @@
 body{
   background:purple;
 }
-table  {
+table{
    background:red;
 }
-td {
+td{
   border:1px solid #000000;
   border-color:black;
 }
-td,th {
+td,th{
   border:1px solid #000000;
   border-color:pink;
 }
