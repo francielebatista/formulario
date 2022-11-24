@@ -4,11 +4,7 @@ body{
 table{
    background:red;
 }
-td{
-  border:1px solid #000000;
+table tr td{
+  border:1px solid pink;
   border-color:black;
-}
-td,th{
-  border:1px solid #000000;
-  border-color:pink;
-}
+
